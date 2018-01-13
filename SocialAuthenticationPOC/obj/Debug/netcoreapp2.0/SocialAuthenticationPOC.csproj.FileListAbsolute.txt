@@ -1,0 +1,11 @@
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\bin\Debug\netcoreapp2.0\SocialAuthenticationPOC.deps.json
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\bin\Debug\netcoreapp2.0\SocialAuthenticationPOC.runtimeconfig.json
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\bin\Debug\netcoreapp2.0\SocialAuthenticationPOC.runtimeconfig.dev.json
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\bin\Debug\netcoreapp2.0\SocialAuthenticationPOC.dll
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\bin\Debug\netcoreapp2.0\SocialAuthenticationPOC.pdb
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\obj\Debug\netcoreapp2.0\SocialAuthenticationPOC.csprojResolveAssemblyReference.cache
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\obj\Debug\netcoreapp2.0\SocialAuthenticationPOC.csproj.CoreCompileInputs.cache
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\obj\Debug\netcoreapp2.0\SocialAuthenticationPOC.AssemblyInfoInputs.cache
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\obj\Debug\netcoreapp2.0\SocialAuthenticationPOC.AssemblyInfo.cs
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\obj\Debug\netcoreapp2.0\SocialAuthenticationPOC.dll
+F:\LENIN\DontTouchThisShit\SocialAuthenticationPOC\SocialMediaPOC\SocialAuthenticationPOC\obj\Debug\netcoreapp2.0\SocialAuthenticationPOC.pdb
